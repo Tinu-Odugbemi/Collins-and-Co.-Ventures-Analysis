@@ -27,7 +27,7 @@ This analysis focuses on utilising business data for analysis and visualisation 
 ## Data Transformation
 -  Utilised the Power Query Editor to clean and format data before visualisation.
 -  Created additional columns, including cost and year, to support further analysis.
--  
+  
 #### Data Cleaning in Power BI Query
 ![](https://github.com/Tinu-Odugbemi/Collins-and-Co.-Ventures-Analysis/blob/main/Cleaned%20Data%20in%20Power%20BI%20Query.png)
 
